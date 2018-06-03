@@ -1,0 +1,58 @@
+#META#  TextURI         :: CleomHas
+#META#  DEAF            :: http://www.deaf-page.de/fr/bibl/bib99c.php#CleomHas
+#META#  TL              :: Cleom.
+#META#  FEW        	
+#META#  ARLIMA          :: https://www.arlima.net/ad/adenet_le_roi.html#cle
+#META#  Author           
+#META#  AuthorBorn      
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle       :: Li roumans de Cléomadès
+#META#  TextSubtitle  	
+#META#  TextVols        :: 2
+#META#  TextSubj        :: Roman
+#META#	TextDom	        :: littéraire
+#META#	Translation	    :: false
+#META#	Collection	    ::
+#META#	CollectionNo	  
+#META#  TextDescARL     :: Vers octosyllabiques à rimes plates 
+#META#  TextDescVers    :: 8
+#META#  TextDateARL     :: Avant 1285 ou même 1283
+#META#  TextDateAdj     :: 1283
+#META#	TextDateMin	    
+#META#	TextDateMax	    :: 1285
+#META#  EdEditor        :: André van Hasselt
+#META#  EdPlace         :: Bruxelles
+#META#  EdPublisher     :: Victor Devaux
+#META#  EdVol           :: 
+#META#  EdYear          :: 1865 1866
+#META#  EdPages         :: 
+#META#  MsBase          :: BnF, Ars. 3142
+#META#  MsOther         
+#META#  MsNum           :: 13
+#META#	MsDateARL	    :: Fin du XIIIe siècle  
+#META#	MsDateAdj	    :: f13 
+#META#	Form	        :: v
+#META#	Complete  	    :: 
+#META#	NoWords	        ::
+#META#	NoLines	        ::
+#META#	DialAuth	      
+#META#	DialScribe	    
+#META#  ScanURL         :: https://archive.org/details/liroumansdecl01aden https://archive.org/details/liroumansdeclo02adenuoft
+#META#  ScanURIOther  	
+#META#  ArkID           :: ark:/13960/t7dr3q79b ark:/13960/t7rn3cz86
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor       :: Lidia Amor (vol. 2, pp. 141-293)
+#META#  WebAuthor       :: María Dumas (vol. 1, pp. 1-145)
+#META#  WebAuthor       :: Karina Fernández (vol. 2, pp. 1-140)
+#META#  WebAuthor       :: María Florencia Vieyra (vol. 1, pp. 146-282)
+#META#  ORCIDWebAuthor  :: 
+#META#  WebReviewer     :: Gustavo Fernández Riva
+#META#  ORCIDReviewer   :: 
+#META#  MiscInfo        
+#META#  CCLicense       :: CC BY-NC-SA 4.0 International
+
